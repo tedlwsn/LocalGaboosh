@@ -1,10 +1,15 @@
-# Babagaboosh
-Simple app that lets you have a verbal conversation with OpenAi's GPT 4.
-Written by DougDoug. Feel free to use this for whatever you want! Credit is appreciated but not required.
+# LocalGaboosh
+Project is a fork of DougDoug's Babagaboosh 
+So credit to DougDoug for the original!
 
-If you would like a crappy video explanation of this project, I made a video covering the basics here: https://www.youtube.com/watch?v=vYE1rkIMj9w
+The idea behind this project is to have the same functions as normal Babagaboosh but without needed to pay for any of the Ai services online by using local Open Source alternatives.
 
-## SETUP:
+For the original version go to DougDoug's Github here: <https://github.com/DougDougGithub/Babagaboosh>
+
+## NOT WORKING YET
+Will update the Setup and requirements later once I get it all working.
+
+### SETUP:
 1) This was written in Python 3.9.2. Install page here: https://www.python.org/downloads/release/python-392/
 
 2) Run `pip install -r requirements.txt` to install all modules.
