@@ -1,3 +1,10 @@
+#Replace with BARK?
+
+
+
+
+
+
 import time
 import azure.cognitiveservices.speech as speechsdk
 import keyboard
